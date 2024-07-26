@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mlwilkersonjr
-- 👀 I’m interested in personal and career development while building intentional relationships.
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in personal and career development while building strong, sustainable and intentional relationships.
+- 🌱 I’m currently learning computer science, programming and language
 - 💞️ I’m looking to collaborate on project-based learning, community engagement and volunteering
 - 📫 How to reach me @mlwilkersonjr@gmail.com
 - 😄 Pronouns: ...
