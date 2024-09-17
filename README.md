@@ -5,7 +5,7 @@
 - 📫 How to reach me @mlwilkersonjr@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I 3D print, LOVE Family and beautiful energy⚡️
-
+Currently enrolled @ App Academy Software Engineering 24 Week Bootcamp
 <!---
 Mlwilkersonjr/Mlwilkersonjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
